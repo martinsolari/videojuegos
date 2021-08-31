@@ -12,6 +12,7 @@
 * Commandos II
 * Fifa
 * SimCity 
+* World Rally
 * Fortnite 
 * LEGO Batman 3: Beyond Gotham
 * FreeFire
