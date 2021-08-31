@@ -18,3 +18,4 @@
 * Hades
 * Excitebike
 * Crazy Taxi
+* MGS
