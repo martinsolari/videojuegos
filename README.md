@@ -11,4 +11,5 @@
 * Monkey Island II
 * Fifa
 * SimCity 
+* LEGO Batman 3: Beyond Gotham
 
