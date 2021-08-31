@@ -17,3 +17,4 @@
 * LEGO Batman 3: Beyond Gotham
 * FreeFire
 * Excitebike
+* Crazy Taxi
