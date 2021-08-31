@@ -15,3 +15,4 @@
 * Fortnite 
 * LEGO Batman 3: Beyond Gotham
 * FreeFire
+* Hades
