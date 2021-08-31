@@ -5,7 +5,7 @@
 * Zelda
 * Pac - Man
 * Space Invaders
-* Idiana Jones and the Fate of Atlantis
+* Indiana Jones and the Fate of Atlantis
 * Witcher III: wild hunt
 * COD
 * Monkey Island II
@@ -16,3 +16,4 @@
 * LEGO Batman 3: Beyond Gotham
 * FreeFire
 * RDD2
+* GTA
