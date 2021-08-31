@@ -12,9 +12,5 @@
 * Commandos
 * Fifa
 * SimCity 
-<<<<<<< HEAD
-* LEGO Batman 3: Beyond Gotham
-
-=======
 * Fortnite 
->>>>>>> 2d9447a7c9ad7aa433253420ae22356afd0cdc32
+* LEGO Batman 3: Beyond Gotham
