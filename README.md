@@ -17,6 +17,8 @@
 * Fortnite 
 * LEGO Batman 3: Beyond Gotham
 * FreeFire
+* RDD2
+* GTA
 * Hades
 * Excitebike
 * Crazy Taxi
