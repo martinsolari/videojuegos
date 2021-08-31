@@ -3,7 +3,7 @@
 * Age of Empires II
 * Mario
 * Zelda
-* Pac - Man
+* Pac - Man II
 * Space Invaders
 * Indiana Jones and the Fate of Atlantis
 * Witcher III: wild hunt
