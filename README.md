@@ -13,3 +13,4 @@
 * Fifa
 * SimCity 
 * Fortnite 
+* FreeFire
