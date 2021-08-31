@@ -9,7 +9,7 @@
 * Witcher III: wild hunt
 * COD
 * Monkey Island II LeChuck Revenge
-* Commandos
+* Commandos II
 * Fifa
 * SimCity 
 * Fortnite 
