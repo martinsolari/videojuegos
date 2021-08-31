@@ -18,7 +18,7 @@
 * LEGO Batman 3: Beyond Gotham
 * FreeFire
 * RDD2
-* GTA
+* GTA San Andreas
 * Hades
 * Excitebike
 * Crazy Taxi
