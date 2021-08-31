@@ -8,7 +8,7 @@
 * Indiana Jones and the Fate of Atlantis
 * Witcher III: wild hunt
 * COD
-* Monkey Island II
+* Monkey Island II LeChuck Revenge
 * Commandos
 * Fifa
 * SimCity 
